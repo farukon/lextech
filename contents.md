@@ -146,6 +146,13 @@ ctrl k
 ctrl y
 カーソルの後ろの文字を貼付け
 
+## terminal shortcut
+新規タブ
+command T
+
+タブの切り替え
+command shift 左右カーソル
+
 
 ## php snippeds
 
