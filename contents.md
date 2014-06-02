@@ -1,5 +1,6 @@
 # lextech
 
+
 ## terminal command
 view |  | vimの読み取り専用でファイルを開く
 
